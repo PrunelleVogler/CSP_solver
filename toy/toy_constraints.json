@@ -1,0 +1,30 @@
+[
+    {
+        "variable1": "x_1",
+        "variable2": "x_2",
+        "valeurs": [
+        {
+            "variable1": 4,
+            "variable2": 5
+        },
+        {
+            "variable1": 3,
+            "variable2": 5
+        }
+        ]
+    },
+    {
+        "variable1": "x_1",
+        "variable2": "x_3",
+        "valeurs": [
+        {
+            "variable1": 4,
+            "variable2": 6
+        },
+        {
+            "variable1": 2,
+            "variable2": 1
+        }
+        ]
+    }
+]
